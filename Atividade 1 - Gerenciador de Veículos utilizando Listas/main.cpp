@@ -1,10 +1,9 @@
 /*−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−*
- |           UNIFAL − Universidade Federal de Alfenas.        |
- |             BACHARELADO EM CIENCIA DA COMPUTACAO.          |
- | Trabalho...: Gerenciador de Busca de Carros                |
- | Componentes:                                               |
- | 1) Daniel da Costa Lima - R.A.: 2021.1.08.026              |
- | 2) Renan Magalhães Lage - R.A.: 2021.1.08.020              |
+ |    UNIFAL − Universidade Federal de Alfenas.  |
+ |       BACHARELADO EM CIENCIA DA COMPUTACAO.   |
+ | Trabalho...: Gerenciador de Busca de Carros   |
+ | Componentes:                                  |
+ | Renan Magalhães Lage - R.A.: 2021.1.08.020    |
  *−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−*/
 
 #include <cstdlib>
