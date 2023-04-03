@@ -1,12 +1,10 @@
-/*−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−*
- |           UNIFAL − Universidade Federal de Alfenas.        |
- |             BACHARELADO EM CIÊNCIA DA COMPUTACAO.          |
- | Trabalho...: Gerenciador de Busca de Carros com Árvores    |
- | Componentes:                                               |
- | 1) Renan Magalhães Lage - RA: 2021.1.08.020                |
- | 2) Phillip Wilson Mesquita  - RA: 2020.1.08.027            |
- | 3) Otavio Augusto Marcelino Izidoro - RA: 2018.1.08.041    |
- *−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−*/
+/*−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−-----------*
+ |         UNIFAL − Universidade Federal de Alfenas.        |
+ |            BACHARELADO EM CIÊNCIA DA COMPUTACAO.         |
+ | Trabalho...: Gerenciador de Busca de Carros com Árvores  |
+ | Componentes:                                             |
+ | 1) Renan Magalhães Lage - RA: 2021.1.08.020              |
+ *−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−-----------*/
 
 #include <cstdlib>
 #include <stdlib.h>
