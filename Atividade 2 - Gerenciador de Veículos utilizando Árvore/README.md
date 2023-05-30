@@ -19,11 +19,11 @@ conterá um número ilimitado de linhas, onde cada linha conterá os dados de um
 ## Requisitos
 O aplicativo deverá:
 
-1) Apresentar um menu ao usuário com as opções de inclusão, exclusão, buscas, árvores, relatório das árvores e relatório da lista principal;
-2) Construir as árvores binária e AVL;
-3) Apresentar o relatório das árvores percorrendo em pré-ordem;
-4) Apresentar o relatório de todos os clientes na tela do computador;
-5) Ao final da execução todas as estruturas devem ser desalocadas.
+- [X] Apresentar um menu ao usuário com as opções de inclusão, exclusão, buscas, árvores, relatório das árvores e relatório da lista principal;
+- [X] Construir as árvores binária e AVL;
+- [X] Apresentar o relatório das árvores percorrendo em pré-ordem;
+- [X] Apresentar o relatório de todos os clientes na tela do computador;
+- [X] Ao final da execução todas as estruturas devem ser desalocadas.
 
 ## Estrutura de Dados
 ![APznzaan_th_0m_GnHZWD_kLXrLs43LygQgr8u4Y692gMfDvXQI7RKlItI1QdqtVKWFSEO2qC38kBkeyhKhCUmNqC-zz8S5f4EglCsO-7Lqz8Kj11ouyeeg7yB5vZ5TIof62WWpqUDvLYP2OIFZvfZ79n3K3PGlYcusKV0Ew](https://user-images.githubusercontent.com/89847080/229586544-3113df4e-f8f0-4384-931c-e1f694c3cf85.jpg)
