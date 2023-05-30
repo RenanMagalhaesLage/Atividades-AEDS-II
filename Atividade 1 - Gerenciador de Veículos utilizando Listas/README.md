@@ -19,14 +19,14 @@ Conterá um número ilimitado de linhas, onde cada linha conterá os dados de um
 ## Requisitos
 O aplicativo deverá:
 
-1) Apresentar um menu ao usuário com as opções de inclusão, exclusão, buscas e relatório;
-2) Realizar buscas na lista criada permitindo configurar as opções com algumas características: resultado em pilha ou fila, escolha da 1ª opção e escolha da 2ª opção;
-3) O resultado da busca deve permanecer na memória até que uma nova busca for realizada;
-4) As opções são escolhidas pelos dados do veículo;
-5) Quando terminar a busca apresente os dados na tela;
-6) Realizar a operação de inclusão de forma ordenada pela placa do veículo;
-7) Apresentar o relatório de todos os clientes na tela do computador;
-8) Ao final da execução todas as estruturas devem ser desalocadas.
+- [X] Apresentar um menu ao usuário com as opções de inclusão, exclusão, buscas e relatório;
+- [X] Realizar buscas na lista criada permitindo configurar as opções com algumas características: resultado em pilha ou fila, escolha da 1ª opção e escolha da 2ª opção;
+- [X] O resultado da busca deve permanecer na memória até que uma nova busca for realizada;
+- [X] As opções são escolhidas pelos dados do veículo;
+- [X] Quando terminar a busca apresente os dados na tela;
+- [X] Realizar a operação de inclusão de forma ordenada pela placa do veículo;
+- [X] Apresentar o relatório de todos os clientes na tela do computador;
+- [X] Ao final da execução todas as estruturas devem ser desalocadas.
 
 ## Estrutura de Dados
 ![estrutura2](https://user-images.githubusercontent.com/89847080/229587653-cf1646e5-f73c-420a-8964-0432bcf76e70.png)
