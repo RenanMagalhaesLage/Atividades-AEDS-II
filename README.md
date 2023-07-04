@@ -3,4 +3,4 @@
 </div>
 
 #### Universidade Federal de Alfenas - UNIFAL
-Atividades realizadas durante a matéria de Algoritmos e Estrutura de Dados 2
+Trabalhos realizados na disciplina de Algoritmos e Estrutura de Dados II 
